@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@media (max-width:800px) {
+
+
+  #previewImage{
+    flex-direction: column;
+
+    
+  }
+
+  #uploadImage{
+    width: 100%;
+  }
+
+  #finalImage{
+    width: 100%;
+  }
+  
+}
